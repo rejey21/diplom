@@ -1,0 +1,1 @@
+Unzip *vendor* in main directory
